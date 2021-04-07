@@ -1,2 +1,0 @@
-C:\Users\RazRab\source\repos\AunoNumber\AunoNumber\obj\Debug\AunoNumber.csprojAssemblyReference.cache
-C:\Users\RazRab\source\repos\AunoNumber\AunoNumber\obj\Debug\AunoNumber.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Mikhail\source\repos\InfMath\InfMath\bin\Debug\InfMath.exe.config
+C:\Users\Mikhail\source\repos\InfMath\InfMath\bin\Debug\InfMath.exe
+C:\Users\Mikhail\source\repos\InfMath\InfMath\bin\Debug\InfMath.pdb
+C:\Users\Mikhail\source\repos\InfMath\InfMath\obj\Debug\InfMath.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\InfMath\InfMath\obj\Debug\InfMath.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\InfMath\InfMath\obj\Debug\InfMath.exe
+C:\Users\Mikhail\source\repos\InfMath\InfMath\obj\Debug\InfMath.pdb
